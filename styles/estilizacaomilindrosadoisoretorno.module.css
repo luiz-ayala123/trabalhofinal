@@ -1,0 +1,23 @@
+.patriaamada{
+    text-align: center;
+}
+
+.palhadesoja img{
+    width: 400px;
+    height: 400px;
+}
+
+.tituloo{
+    font-size: 1cm;
+    font-weight:bold;
+}
+
+.valor{
+    font-family: arial, sans-serif;
+    font-size: 20px;
+}
+
+.preco{
+    font-weight:bold;
+    letter-spacing: 5px;
+}
